@@ -5,4 +5,5 @@ gitを練習してます
 .git rm
 .git staus
 .git diff
+testdayo
 
