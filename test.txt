@@ -4,4 +4,5 @@ gitを練習してます
 .git commit
 .git rm
 .git staus
+.git diff
 
