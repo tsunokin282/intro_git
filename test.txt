@@ -2,5 +2,6 @@ gitを練習してます
 基本的なこと
 .git at 
 .git commit
-test
-aaa
+.git rm
+.git staus
+
